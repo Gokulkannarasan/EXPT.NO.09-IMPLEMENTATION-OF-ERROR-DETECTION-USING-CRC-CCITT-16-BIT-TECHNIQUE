@@ -51,7 +51,7 @@ printf("no error detected");
 }
  
 # OUTPUT:
-<img width="1920" height="1080" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/cdb1a4a6-b8b1-44ae-a330-ea9b204178f8" />
+![IMG-20251121-WA0014](https://github.com/user-attachments/assets/da0866c9-8467-4d0d-81a8-6957c812f79c)
 
 
 # RESULT:
